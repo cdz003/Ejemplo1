@@ -1,4 +1,4 @@
-print "Hola"
+print "Hooola"
 
 def escribe_media():
     media = (a + b) / 2
